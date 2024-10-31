@@ -1,0 +1,9 @@
+nav a,span{
+    margin-right: 50px;
+}
+
+nav a.active {
+    text-decoration: underline;
+    color: tomato;
+   
+}
